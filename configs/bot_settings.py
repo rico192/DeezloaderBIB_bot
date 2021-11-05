@@ -19,9 +19,9 @@ logger_names = [
 
 warning_for_banning = 4
 user_session = "my_account"
-user_errors = None
-bunker_channel = None
-owl_channel = None
+user_errors = 862207343
+bunker_channel = -1001741840454
+owl_channel = -1001741840454
 db_name = "deez_bot.db"
 settings_file = ".deez_settings.ini"
 root_ids = {1270777127}
